@@ -1,0 +1,28 @@
+
+body { 
+	background-color: rgb(120,120,120);
+	color: white;
+	text-align: center;
+}
+h1 { 
+	font-family: 'Bangers', cursive;
+	font-size: 50px;
+}
+h3 { 
+	font-size: 30px;
+}
+div { 
+	line-height: .5;
+}
+p {
+	line-height: 1;
+}
+img { 
+	border: solid white;
+	border-radius: 20px;
+	border-width: 10px;
+}
+.sharks{ 
+	font-size: 40px;
+}
+
